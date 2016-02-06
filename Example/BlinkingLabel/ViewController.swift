@@ -7,11 +7,12 @@
 //
 
 import UIKit
+import BlinkingLabel
 
 class ViewController: UIViewController {
 
     var isBlinking = false
-    let blinkingLabel = BlinkingLabel(frame: CGRectMake(10, 20, 200, 30)
+    let blinkingLabel = BlinkingLabel(frame: CGRectMake(10, 20, 200, 30))
         
     override func viewDidLoad() {
         super.viewDidLoad()

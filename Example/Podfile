@@ -1,4 +1,5 @@
-source 'https://github.com/CocoaPods/Specs.git'
+#source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/dynamite8/BlinkingLabel.git'
 use_frameworks!
 
 target 'BlinkingLabel_Example', :exclusive => true do
