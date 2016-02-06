@@ -1,9 +1,9 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "A sublcass of UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://github.com/dynamite8/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "Jenny Chang Ho": "jchangho@gruhub.com"
